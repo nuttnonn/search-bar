@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620b583e-5afb-4514-b5f7-83853729315d" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/SearchResult.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/SearchResult.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/SearchResultsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/SearchResultsList.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="620b583e-5afb-4514-b5f7-83853729315d" name="Changes" comment="style: edit text position in searchResult component" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706715034379</updated>
       <workItem from="1706715035524" duration="825000" />
-      <workItem from="1706717289286" duration="8547000" />
+      <workItem from="1706717289286" duration="8624000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -73,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706725621088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="style: edit text position in searchResult component">
+      <option name="closed" value="true" />
+      <created>1706725912684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706725912684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="style: edit text position in searchResult component" />
+    <option name="LAST_COMMIT_MESSAGE" value="style: edit text position in searchResult component" />
   </component>
 </project>
